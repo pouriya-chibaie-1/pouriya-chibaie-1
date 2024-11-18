@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pouriya Chibaie</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate front-end developer with a love for creating intuitive and engaging user experiences.</h3>
 
 - 💬 Ask me about **React , Next.js**
 
